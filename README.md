@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dam-crtl
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning category theory
+- 🌱 I’m currently learning categorical theory
 - nice to meet you!
 - 
 
